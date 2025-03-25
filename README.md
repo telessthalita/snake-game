@@ -24,11 +24,3 @@ Este é um simples jogo da cobra implementado em Python utilizando a biblioteca 
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema para relatar bugs ou sugerir melhorias. Se desejar contribuir com código, faça um fork deste repositório, faça as alterações e envie uma solicitação de pull.
-
-## Autor
-
-[Seu Nome]
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).

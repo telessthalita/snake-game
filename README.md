@@ -16,11 +16,4 @@ Este é um simples jogo da cobra implementado em Python utilizando a biblioteca 
 - Python 3.x
 - Pygame
 
-## Estrutura do Código
 
-- `snake_game.py`: Contém todo o código do jogo.
-- `README.md`: Este arquivo que você está lendo agora.
-
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema para relatar bugs ou sugerir melhorias. Se desejar contribuir com código, faça um fork deste repositório, faça as alterações e envie uma solicitação de pull.
